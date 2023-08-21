@@ -1,5 +1,5 @@
 # Frontend Mentor - News homepage
-# [Frontend Mentor - News homepage](https://frontend-mentor-news-app.vercel.app/)
+# [Try It!](https://frontend-mentor-news-app.vercel.app/)
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
 
