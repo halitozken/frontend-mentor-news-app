@@ -222,6 +222,10 @@ section#bottom-area {
     gap: 24px;
   }
 
+  .menu-item a:active {
+    color:orangered;
+  }
+
   .close-icon {
     float: right;
     margin-top: 40px;
