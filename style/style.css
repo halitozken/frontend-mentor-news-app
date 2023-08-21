@@ -144,11 +144,11 @@ section#bottom-area {
 }
 
 .card-content {
-  margin-left: 20px;
+  margin-left: 14px;
 }
 
 .card-content .card-number {
-  font-size: 22px;
+  font-size: 20px;
   font-family: Inter-Bold;
   color: gray;
 }
